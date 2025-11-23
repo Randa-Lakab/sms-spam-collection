@@ -22,7 +22,7 @@ There is one collection:
 
 
 1.3. Format
------------
+-------
 
 The files contain one message per line. Each line is composed by two columns: one with label (ham or spam) and other with the raw text. Here are some examples:
 
